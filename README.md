@@ -1,2 +1,3 @@
 # hello-world2
-just another repo
+
+I would like to learn git merge
